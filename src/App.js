@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+import profile from './profile.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={profile} className="App-logo" alt="logo" />
         <p>
-          GitHub Deployment
+          Mukesh Sahay
         </p>
         <a
           className="App-link"
